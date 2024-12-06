@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src=".github/imagem-github-planilha.png"
+    src="./assets/minha_viagem_para_Roma"
     width="300"
 />
 </p>
@@ -50,15 +50,13 @@ Olá pessoal, meu nome é Guto e sou aluno do BootCamp da CAIXA - IA Generativa 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [Photo AI Studio](https://www.photoaistudio.com/pt/)
+- [Monica](https://monica.im/home)
+
 
 ## ✨ Como foi feito ?
 
 - O chatgpt foi utilizado para gerar o texto estilo post da história
-- O Midjourney foi utilizado para gerar imagem
-- O Photo AI Studio foi utilizado para gerar a imagem fake da viagem
-
+- A Monica IA foi utilizado para gerar imagem
 
 ## 💭 Reflexão
 
@@ -66,7 +64,7 @@ Este projeto tem como propósito mostrar que no contexto atual com o advento de 
 
 <p align="center">
 <img 
-    src=".github/imagem-github-planilha.png"
+    src="./assets/o_que_e_verdade"
     width="300"
 />
 </p>
