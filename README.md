@@ -25,7 +25,7 @@ Se eu consegui, você também pode! 🚀💡
 
 #Roma #Sonhos #Motivação #Inspiração #ExcelMudouMinhaVida #Coliseu #ZonaOesteRJ #NuncaDesista
 
-E agora, me diz aí, seguindo a hype Natty or Not, esta história é verdadeira ou não? 😊
+E agora, me diz aí, seguindo a hype Natty or Not, esta história é verdadeira ou não? 🤔
 
 <p align="center">
 <a href="https://dio.me/">
