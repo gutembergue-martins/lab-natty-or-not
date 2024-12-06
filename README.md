@@ -1,48 +1,85 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+<p align="center">
+<img 
+    src=".github/imagem-github-planilha.png"
+    width="300"
+/>
+</p>
+
+🌍 **DE BANGU AO COLISEU: O SONHO SE TORNA REALIDADE!** 🏛️✨  
+
+Eu sempre fui aquele moleque sonhador da Zona Oeste do Rio, criado na correria, estudando em escola pública e ajudando minha família desde cedo. A grana era curta, mas eu tinha um sonho grande: um dia, conhecer Roma e ver de perto o Coliseu. 💭✨ 
+
+Esse sonho me acompanhou desde criança, quando eu via fotos e documentários sobre gladiadores e a história incrível por trás daquela arena. Eu sabia que, pra chegar lá, precisaria ralar MUITO e planejar cada centavo. Foi aí que o **Excel** entrou na minha vida. 📊🔥  
+
+Eu comecei a anotar minhas economias no Excel e criei tabelas pra organizar o quanto precisava guardar e gastar. No início, eu mal sabia fazer uma soma, mas com o tempo, virei praticamente um ninja das planilhas! 💻⚡ Isso me abriu portas: consegui um emprego como analista de dados na Caixa Econômica Federal.  
+
+Minha missão? Criar pacotes de viagens para premiar os funcionários destaque. 🚀💼 E olha só: usando o Excel, montei um banco de dados COMPLETO, com roteiros para o mundo inteiro. 🌎 Ficou tão incrível que o chefe quis me premiar... e adivinha qual foi o destino?  
+
+**ROMA, BABY!** 🇮🇹❤️  
+
+Finalmente, realizei meu sonho. Andei pelas ruas históricas, provei gelatos inesquecíveis e fiquei frente a frente com o Coliseu. Foi surreal. 🏛️✨  
+
+Moral da história? Não importa de onde você vem, o tamanho dos seus sonhos é o que define até onde você pode ir. Sonhe grande, planeje, corra atrás... e confie no processo. 🙌  
+
+Se eu consegui, você também pode! 🚀💡  
+
+#Roma #Sonhos #Motivação #Inspiração #ExcelMudouMinhaVida #Coliseu #ZonaOesteRJ #NuncaDesista
+
+E agora, me diz aí, seguindo a hype Natty or Not, esta história é verdadeira ou não? 😊
+
+<p align="center">
+<a href="https://dio.me/">
+    <img 
+        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+        alt="DIO - Code The Future">
+</a>
+<a href="https://dio.me/">
+<img 
+    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+    alt="🔴 LIVE CODE">
+</a>
+</p>
+
 
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, meu nome é Guto e sou aluno do BootCamp da CAIXA - IA Generativa com Microsoft Copilot da [DIO](https://dio.me)! Inspirado na hype _"Natty or Not"_ construi este texto com o auxilio de uma IA Generativa, explorando o potencial dessas tendências tecnológicas incríveis.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 💻 Tecnologias utilizadas no projeto
 
-### Objetivos
+- [ChatGPT](https://chat.openai.com/) 
+- [MidJourney](https://www.midjourney.com/app/)
+- [Photo AI Studio](https://www.photoaistudio.com/pt/)
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+## ✨ Como foi feito ?
 
-### Template
+- O chatgpt foi utilizado para gerar o texto estilo post da história
+- O Midjourney foi utilizado para gerar imagem
+- O Photo AI Studio foi utilizado para gerar a imagem fake da viagem
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## 💭 Reflexão
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Este projeto tem como propósito mostrar que no contexto atual com o advento de várias tecnologias, fica cada vez mais dificil conceber o que é realidade dentro deste infinito universo de informação no mundo digital.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 👨‍💻 Novato
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://cdn.jsdelivr.net/gh/alohe/avatars/png/memo_30.png"
+    />
+    <p>&nbspGutembergue Martins<br>&nbsp
+    &nbsp;
+    <a 
+        href="<a href="https://www.linkedin.com/in/gutembergue-martins-38336a59" target="_blank">LinkedIn</a>
+    </p>
+<br/><br/>
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
