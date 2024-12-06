@@ -64,6 +64,13 @@ Olá pessoal, meu nome é Guto e sou aluno do BootCamp da CAIXA - IA Generativa 
 
 Este projeto tem como propósito mostrar que no contexto atual com o advento de várias tecnologias, fica cada vez mais dificil conceber o que é realidade dentro deste infinito universo de informação no mundo digital.
 
+<p align="center">
+<img 
+    src=".github/imagem-github-planilha.png"
+    width="300"
+/>
+</p>
+
 ## 👨‍💻 Novato
 
 <p>
