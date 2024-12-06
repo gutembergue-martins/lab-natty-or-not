@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/minha_viagem_para_Roma"
+    src="./assets/minha_viagem_para_Roma.png"
     width="300"
 />
 </p>
@@ -64,7 +64,7 @@ Este projeto tem como propósito mostrar que no contexto atual com o advento de 
 
 <p align="center">
 <img 
-    src="./assets/o_que_e_verdade"
+    src="./assets/o_que_e_verdade.png"
     width="300"
 />
 </p>
